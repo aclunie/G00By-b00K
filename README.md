@@ -1,3 +1,3 @@
 Under construction...
 
-G00By N0DES!
+... back end development for Player One VR World.
